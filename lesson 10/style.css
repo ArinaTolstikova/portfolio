@@ -1,0 +1,39 @@
+.mainmenubtn {
+    background-color: red;
+    color: white;
+    border: none;
+    cursor: pointer;
+    padding:20px;
+    margin-top:20px;
+}
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+.dropdown-child {
+    display: none;
+    background-color: black;
+    min-width: 200px;
+}
+.dropdown-child a {
+    color: white;
+    padding: 20px;
+    text-decoration: none;
+    display: block;
+}
+.dropdown:hover .dropdown-child {
+    display: block;
+}
+</style>
+</head>
+<body>
+<div class="dropdown">
+  <button class="mainmenubtn">Главное меню</button>
+  <div class="dropdown-child">
+    <a href="http://https://brawl-stars.ru.uptodown.com//page1.html">Подраздел 1</a>
+    <a href="http://rtlgrm.ru//page2.html">Подраздел 2</a>
+    <a href="http://https://androidvip.net//page3.html">Подраздел 3</a>
+    <a href="http://https://five-nights-at-freddys.ru.uptodown.com//page4.html">Подраздел 4</a>
+    <a href="http://https://five-nights-at-freddys-2.ru.uptodown.com//page5.html">Подраздел 5</a>
+  </div>
+</div>

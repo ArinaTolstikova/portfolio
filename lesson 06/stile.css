@@ -1,0 +1,66 @@
+h1 {
+    text-align: center;
+}
+.header {
+    width: 600px;
+    margin: 10px;
+    margin-left: 500px;
+}
+.block {
+    width: 600px;
+    height: 50px;
+}
+.red {
+    background-color: red;
+}
+.green {
+    background-color: green;
+}
+.blue {
+    background-color: blue;
+}
+.gray {
+    background-color: gray;
+}
+.black {
+    background-color: black;
+}
+.main-top {
+    width: 600px;
+    
+}
+.main{
+    width: 600px;
+    margin: 10px;
+    margin-left: 500px;
+}
+.block1 {
+    float: left;
+    width: 200px;
+    height: 50px;
+}
+.yellow {
+    background-color: yellow;
+    width: 600px;
+    height: 50px;
+}
+.block2 {
+    float: left;
+    width: 50%;
+    height: 50px;
+}
+.block3 {
+    float: left;
+    height: 150px;
+    width: 150px;
+    border: 15px solid rgb(28, 95, 50);
+    padding: 10px ;
+}
+.bottom {
+    width: 600px;
+    margin: 10px;
+    margin-left: 500px;
+}
+div {
+    text-align: center;
+}

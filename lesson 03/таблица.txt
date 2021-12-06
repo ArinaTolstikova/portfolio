@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h2>My timetable</h2>
+    <table style="width: 90%;">
+        <tr>
+            <th>
+                <img src="./logo.png" alt="я гуль">
+                <th>Monday</th>
+                <th>Tuesday</th>
+                <th>Wednesday</th>
+                <th>Thursday</th>
+                <th>Friday</th>
+            </th>
+        </tr>
+        <tr>
+                <th>Algebra</th>
+                <th>Biologe</th>
+                <th>PE</th>
+                <th>France</th>
+                <th>History</th>
+                <th>Ukrainian</th>
+                <th>Foreign literature</th>           
+        </tr>
+        <tr>
+            <th>
+                <th>Ukrainian</th>
+                <th>Physics</th>
+                <th>Ukr literature</th>
+                <th>Informatique</th>
+                <th>English</th>
+                <th>Russian</th>
+                <th>Music</th>
+            </th>
+        </tr>
+        <tr>
+            <th>
+                <th>PE</th>
+                <th>Biology</th>
+                <th>Geography</th>
+                <th>English</th>
+                <th>Algebra</th>
+                <th>Geometry</th>
+                <th><Ukr/Chemistry></th>
+            </th>
+        </tr>
+        <tr>
+            <th>
+                <th>Health basics</th>
+                <th>Algebra</th>
+                <th>Geometry</th>
+                <th>Geography\</th>
+                <th>Physics</th>
+                <th>Ukr literature</th>
+                <th>Labor</th>         
+            </th>
+        </tr>
+        <tr>
+            <th>
+                <th>Chemistry</th>
+                <th>English</th>
+                <th>PE</th>
+                <th></th>
+            </th>
+        </tr>
+    </table>
+</body>
+</html>
